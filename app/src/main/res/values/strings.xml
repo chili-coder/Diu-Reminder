@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Diabetes Self-Care</string>
+
+
+    //developer info
+    <string name="team">The team of Dr. Touhid Bhuiyan,\nDaffodil International University, Bangladesh</string>
+</resources>
